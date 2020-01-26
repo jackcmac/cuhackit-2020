@@ -1,0 +1,12 @@
+IGH, 1
+HGI, -1
+HGE, 1
+EGH, -1
+GEF, 1
+FEG, -1
+FEC, 1
+CEF, -1
+ECD, 1
+DCE, -1
+DCB, 1
+BCD, -1
